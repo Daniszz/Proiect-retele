@@ -1,0 +1,16 @@
+{
+    "configurations": [
+      {
+        "name": "Debug",
+        "generator": "Unix Makefiles",
+        "buildDirectory": "${workspaceFolder}/build",
+        "cmakeCommandArgs": "",
+        "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+        "configurationType": "Debug",
+        "buildRoot": "${workspaceFolder}/build",
+        "sourceDirectory": "${workspaceFolder}",
+        "installRoot": "${workspaceFolder}/install"
+      }
+    ]
+  }
+  

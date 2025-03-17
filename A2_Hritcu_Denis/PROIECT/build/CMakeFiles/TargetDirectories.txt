@@ -1,0 +1,4 @@
+/home/danis/retele/PROIECT/build/CMakeFiles/ClientPrincipal.dir
+/home/danis/retele/PROIECT/build/CMakeFiles/ClientSecundar.dir
+/home/danis/retele/PROIECT/build/CMakeFiles/edit_cache.dir
+/home/danis/retele/PROIECT/build/CMakeFiles/rebuild_cache.dir
